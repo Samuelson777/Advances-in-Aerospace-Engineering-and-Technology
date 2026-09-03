@@ -67,7 +67,7 @@ aerospace-research-paper/
 
 ### Figure 1. Key Milestones in Aerospace Development
 
-![Figure 1 - Aerospace Milestones Timeline](figures/figure_1_aerospace_milestones_timeline.png)
+![Figure 1 - Aerospace Milestones Timeline](https://github.com/Samuelson777/Advances-in-Aerospace-Engineering-and-Technology/blob/main/Fig%201.png)
 
 This figure presents selected milestones in aerospace history, including early powered flight, liquid-fueled rocketry, the sound barrier, artificial satellites, human spaceflight, lunar exploration, Mars missions, reusable spacecraft, private suborbital flight, Mars helicopter flight, and quiet-supersonic aircraft development.
 
@@ -75,7 +75,7 @@ This figure presents selected milestones in aerospace history, including early p
 
 ### Figure 2. Annual Objects Launched into Space
 
-![Figure 2 - Annual Objects Launched into Space](figures/figure_2_annual_objects_launched_trend.png)
+![Figure 2 - Annual Objects Launched into Space](https://github.com/Samuelson777/Advances-in-Aerospace-Engineering-and-Technology/blob/main/Fig%202.png)
 
 This figure illustrates the long-term increase in objects launched into Earth orbit or beyond, with a sharp rise during the commercial satellite constellation era.
 
@@ -83,7 +83,7 @@ This figure illustrates the long-term increase in objects launched into Earth or
 
 ### Figure 3. X-59 Quiet-Supersonic Concept
 
-![Figure 3 - X-59 Quiet Supersonic Concept](figures/figure_3_x59_quiet_supersonic_schematic.png)
+![Figure 3 - X-59 Quiet Supersonic Concept](https://github.com/Samuelson777/Advances-in-Aerospace-Engineering-and-Technology/blob/main/Fig%203.png)
 
 This figure explains the X-59 quiet-supersonic aircraft concept, including low-boom aerodynamics, shockwave shaping, community noise response, and future overland supersonic flight research.
 
@@ -91,7 +91,7 @@ This figure explains the X-59 quiet-supersonic aircraft concept, including low-b
 
 ### Figure 4. Aerospace Engineering System Integration
 
-![Figure 4 - Aerospace System Integration](figures/figure_4_aerospace_system_integration_map.png)
+![Figure 4 - Aerospace System Integration](https://github.com/Samuelson777/Advances-in-Aerospace-Engineering-and-Technology/blob/main/Fig%204.png)
 
 This systems map shows how aerodynamics, propulsion, materials, guidance, manufacturing, mission environment, and sustainability interact to produce aerospace performance outcomes.
 
